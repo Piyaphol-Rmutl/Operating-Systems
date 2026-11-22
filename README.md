@@ -118,24 +118,24 @@
 
 | สัปดาห์ | หัวข้อ | เอกสารประกอบการสอน | ใบงาน | ใบบันทึกผลปฏิบัติ |
 |:---:|---|:---:|:---:|:---:|
-| 1 | 1.1 บทนำสู่ระบบปฏิบัติการ | [Lec-01](weeks/week-01/ENGCE125_W01_lecture.pdf) | [ใบงาน-1](weeks/week-01/ENGCE125_Lab01.pdf) | [Lab-1](weeks/week-01/ENGCE125_Lab01_record.docx) |
-| 2 | 1.2 โครงสร้างระบบปฏิบัติการ | [Lec-02](weeks/week-02/ENGCE125_W02_lecture.pdf) | [ใบงาน-2](weeks/week-02/ENGCE125_Lab02.pdf) | [Lab-2](weeks/week-02/ENGCE125_Lab02_record.docx) |
-| 3 | 2.1 โพรเซส | [Lec-03](weeks/week-03/ENGCE125_W03_lecture.pdf) | [ใบงาน-3](weeks/week-03/ENGCE125_Lab03.pdf) | [Lab-3](weeks/week-03/ENGCE125_Lab03_record.docx) |
-| 4 | 2.2 การสื่อสารระหว่างโพรเซส | [Lec-04](weeks/week-04/ENGCE125_W04_lecture.pdf) | [ใบงาน-4](weeks/week-04/ENGCE125_Lab04.pdf) | [Lab-4](weeks/week-04/ENGCE125_Lab04_record.docx) |
-| 5 | 2.3 เทรดและการทำงานพร้อมกัน | [Lec-05](weeks/week-05/ENGCE125_W05_lecture.pdf) | [ใบงาน-5](weeks/week-05/ENGCE125_Lab05.pdf) | [Lab-5](weeks/week-05/ENGCE125_Lab05_record.docx) |
-| 6 | 3.1 ขั้นตอนวิธีการจัดตารางหน่วยประมวลผล | [Lec-06](weeks/week-06/ENGCE125_W06_lecture.pdf) | [ใบงาน-6](weeks/week-06/ENGCE125_Lab06.pdf) | [Lab-6](weeks/week-06/ENGCE125_Lab06_record.docx) |
-| 7 | 3.2 การจัดตารางขั้นสูงและการประเมินผลขั้นตอนวิธี | [Lec-07](weeks/week-07/ENGCE125_W07_lecture.pdf) | [ใบงาน-7](weeks/week-07/ENGCE125_Lab07.pdf) | [Lab-7](weeks/week-07/ENGCE125_Lab07_record.docx) |
-| 8 | 4.1 เครื่องมือการประสานจังหวะ | [Lec-08](weeks/week-08/ENGCE125_W08_lecture.pdf) | [ใบงาน-8](weeks/week-08/ENGCE125_Lab08.pdf) | [Lab-8](weeks/week-08/ENGCE125_Lab08_record.docx) |
-| 9 | **สอบกลางภาค** | [Lec-09](weeks/week-09/ENGCE125_W09_lecture.pdf) | — | — |
-| 10 | 4.2 ปัญหาคลาสสิกของการประสานจังหวะ | [Lec-10](weeks/week-10/ENGCE125_W10_lecture.pdf) | [ใบงาน-9](weeks/week-10/ENGCE125_Lab09.pdf) | [Lab-9](weeks/week-10/ENGCE125_Lab09_record.docx) |
-| 11 | 4.3 ปัญหาการติดตาย | [Lec-11](weeks/week-11/ENGCE125_W11_lecture.pdf) | [ใบงาน-10](weeks/week-11/ENGCE125_Lab10.pdf) | [Lab-10](weeks/week-11/ENGCE125_Lab10_record.docx) |
-| 12 | 5.1 หน่วยความจำหลัก การแบ่งเป็นส่วนและการแบ่งเป็นหน้า | [Lec-12](weeks/week-12/ENGCE125_W12_lecture.pdf) | [ใบงาน-11](weeks/week-12/ENGCE125_Lab11.pdf) | [Lab-11](weeks/week-12/ENGCE125_Lab11_record.docx) |
-| 13 | 5.2 หน่วยความจำเสมือน | [Lec-13](weeks/week-13/ENGCE125_W13_lecture.pdf) | [ใบงาน-12](weeks/week-13/ENGCE125_Lab12.pdf) | [Lab-12](weeks/week-13/ENGCE125_Lab12_record.docx) |
-| 14 | 6.1 หน่วยเก็บข้อมูลสำรองและระบบรับ-ส่งข้อมูล | [Lec-14](weeks/week-14/ENGCE125_W14_lecture.pdf) | [ใบงาน-13](weeks/week-14/ENGCE125_Lab13.pdf) | [Lab-13](weeks/week-14/ENGCE125_Lab13_record.docx) |
-| 15 | 7.1 การป้องกันและความมั่นคงปลอดภัยของระบบ | [Lec-15](weeks/week-15/ENGCE125_W15_lecture.pdf) | [ใบงาน-14](weeks/week-15/ENGCE125_Lab14.pdf) | [Lab-14](weeks/week-15/ENGCE125_Lab14_record.docx) |
-| 16 | 8.1 กรณีศึกษา Linux, Windows และเครื่องเสมือน | [Lec-16](weeks/week-16/ENGCE125_W16_lecture.pdf) | [ใบงาน-15](weeks/week-16/ENGCE125_Lab15.pdf) | [Lab-15](weeks/week-16/ENGCE125_Lab15_record.docx) |
-| 17 | **ทบทวนบทเรียน** | [Lec-17](weeks/week-17/ENGCE125_W17_lecture.pdf) | — | — |
-| 18 | **สอบปลายภาค** | [Lec-18](weeks/week-18/ENGCE125_W18_lecture.pdf) | — | — |
+| 1 | 1.1 บทนำสู่ระบบปฏิบัติการ | [Lec⁠-⁠01](weeks/week-01/ENGCE125_W01_lecture.pdf) | [ใบ⁠งาน⁠-⁠1](weeks/week-01/ENGCE125_Lab01.pdf) | [Lab⁠-⁠1](weeks/week-01/ENGCE125_Lab01_record.docx) |
+| 2 | 1.2 โครงสร้างระบบปฏิบัติการ | [Lec⁠-⁠02](weeks/week-02/ENGCE125_W02_lecture.pdf) | [ใบ⁠งาน⁠-⁠2](weeks/week-02/ENGCE125_Lab02.pdf) | [Lab⁠-⁠2](weeks/week-02/ENGCE125_Lab02_record.docx) |
+| 3 | 2.1 โพรเซส | [Lec⁠-⁠03](weeks/week-03/ENGCE125_W03_lecture.pdf) | [ใบ⁠งาน⁠-⁠3](weeks/week-03/ENGCE125_Lab03.pdf) | [Lab⁠-⁠3](weeks/week-03/ENGCE125_Lab03_record.docx) |
+| 4 | 2.2 การสื่อสารระหว่างโพรเซส | [Lec⁠-⁠04](weeks/week-04/ENGCE125_W04_lecture.pdf) | [ใบ⁠งาน⁠-⁠4](weeks/week-04/ENGCE125_Lab04.pdf) | [Lab⁠-⁠4](weeks/week-04/ENGCE125_Lab04_record.docx) |
+| 5 | 2.3 เทรดและการทำงานพร้อมกัน | [Lec⁠-⁠05](weeks/week-05/ENGCE125_W05_lecture.pdf) | [ใบ⁠งาน⁠-⁠5](weeks/week-05/ENGCE125_Lab05.pdf) | [Lab⁠-⁠5](weeks/week-05/ENGCE125_Lab05_record.docx) |
+| 6 | 3.1 ขั้นตอนวิธีการจัดตารางหน่วยประมวลผล | [Lec⁠-⁠06](weeks/week-06/ENGCE125_W06_lecture.pdf) | [ใบ⁠งาน⁠-⁠6](weeks/week-06/ENGCE125_Lab06.pdf) | [Lab⁠-⁠6](weeks/week-06/ENGCE125_Lab06_record.docx) |
+| 7 | 3.2 การจัดตารางขั้นสูงและการประเมินผลขั้นตอนวิธี | [Lec⁠-⁠07](weeks/week-07/ENGCE125_W07_lecture.pdf) | [ใบ⁠งาน⁠-⁠7](weeks/week-07/ENGCE125_Lab07.pdf) | [Lab⁠-⁠7](weeks/week-07/ENGCE125_Lab07_record.docx) |
+| 8 | 4.1 เครื่องมือการประสานจังหวะ | [Lec⁠-⁠08](weeks/week-08/ENGCE125_W08_lecture.pdf) | [ใบ⁠งาน⁠-⁠8](weeks/week-08/ENGCE125_Lab08.pdf) | [Lab⁠-⁠8](weeks/week-08/ENGCE125_Lab08_record.docx) |
+| 9 | **สอบกลางภาค** | [Lec⁠-⁠09](weeks/week-09/ENGCE125_W09_lecture.pdf) | — | — |
+| 10 | 4.2 ปัญหาคลาสสิกของการประสานจังหวะ | [Lec⁠-⁠10](weeks/week-10/ENGCE125_W10_lecture.pdf) | [ใบ⁠งาน⁠-⁠9](weeks/week-10/ENGCE125_Lab09.pdf) | [Lab⁠-⁠9](weeks/week-10/ENGCE125_Lab09_record.docx) |
+| 11 | 4.3 ปัญหาการติดตาย | [Lec⁠-⁠11](weeks/week-11/ENGCE125_W11_lecture.pdf) | [ใบ⁠งาน⁠-⁠10](weeks/week-11/ENGCE125_Lab10.pdf) | [Lab⁠-⁠10](weeks/week-11/ENGCE125_Lab10_record.docx) |
+| 12 | 5.1 หน่วยความจำหลัก การแบ่งเป็นส่วนและการแบ่งเป็นหน้า | [Lec⁠-⁠12](weeks/week-12/ENGCE125_W12_lecture.pdf) | [ใบ⁠งาน⁠-⁠11](weeks/week-12/ENGCE125_Lab11.pdf) | [Lab⁠-⁠11](weeks/week-12/ENGCE125_Lab11_record.docx) |
+| 13 | 5.2 หน่วยความจำเสมือน | [Lec⁠-⁠13](weeks/week-13/ENGCE125_W13_lecture.pdf) | [ใบ⁠งาน⁠-⁠12](weeks/week-13/ENGCE125_Lab12.pdf) | [Lab⁠-⁠12](weeks/week-13/ENGCE125_Lab12_record.docx) |
+| 14 | 6.1 หน่วยเก็บข้อมูลสำรองและระบบรับ-ส่งข้อมูล | [Lec⁠-⁠14](weeks/week-14/ENGCE125_W14_lecture.pdf) | [ใบ⁠งาน⁠-⁠13](weeks/week-14/ENGCE125_Lab13.pdf) | [Lab⁠-⁠13](weeks/week-14/ENGCE125_Lab13_record.docx) |
+| 15 | 7.1 การป้องกันและความมั่นคงปลอดภัยของระบบ | [Lec⁠-⁠15](weeks/week-15/ENGCE125_W15_lecture.pdf) | [ใบ⁠งาน⁠-⁠14](weeks/week-15/ENGCE125_Lab14.pdf) | [Lab⁠-⁠14](weeks/week-15/ENGCE125_Lab14_record.docx) |
+| 16 | 8.1 กรณีศึกษา Linux, Windows และเครื่องเสมือน | [Lec⁠-⁠16](weeks/week-16/ENGCE125_W16_lecture.pdf) | [ใบ⁠งาน⁠-⁠15](weeks/week-16/ENGCE125_Lab15.pdf) | [Lab⁠-⁠15](weeks/week-16/ENGCE125_Lab15_record.docx) |
+| 17 | **ทบทวนบทเรียน** | [Lec⁠-⁠17](weeks/week-17/ENGCE125_W17_lecture.pdf) | — | — |
+| 18 | **สอบปลายภาค** | [Lec⁠-⁠18](weeks/week-18/ENGCE125_W18_lecture.pdf) | — | — |
 
 ## ตำราและเอกสารอ้างอิง
 
